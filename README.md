@@ -75,11 +75,11 @@ The JavaScript file includes:
 
 ### Input and Button Section
 
-![Input and Button](/input_and_button_section.png)
+![Input and Button](input_and_button_section.png)
 
 ### Conversion Results
 
-![Conversion Results](/conversion_results.png)
+![Conversion Results](conversion_results.png)
 
 ## Future Enhancements
 
